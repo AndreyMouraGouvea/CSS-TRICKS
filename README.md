@@ -55,6 +55,8 @@
 
 ### WEBSITES TO LEARN
 
-[Flex Box Froggy](https://flexboxfroggy.com/)
-[Evelator Saga](https://play.elevatorsaga.com/)
-[Fluke Out](https://flukeout.github.io/)
+[Flex Box Froggy](https://flexboxfroggy.com/);
+
+[Evelator Saga](https://play.elevatorsaga.com/);
+
+[Fluke Out](https://flukeout.github.io/);
