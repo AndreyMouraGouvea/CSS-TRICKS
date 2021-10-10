@@ -1,0 +1,121 @@
+/* CENTER CONTENT */
+*{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;    
+}
+
+div{
+    margin-left: 1%;
+    width: 30vw;
+    height: 30vh;
+}
+
+/* BORDER STYLE */
+.none{
+    border: none;
+}
+.solid{
+    border: 5px solid red;
+}
+.dashed
+{
+    border: 5px dashed red;
+}
+.double{
+    border: 5px double red;
+}
+.dotted{
+    border: 5px dotted red;
+}
+.groove{
+    border: 5px groove red;
+}
+.inset{
+    border: 5px inset red;
+}
+.outset{
+    border: 5px outset red;
+}
+.ridge{
+    border: 5px ridge red;
+}
+/* SMOOTH SCROLL*/
+.html{
+    scroll-behavior: smooth;
+}
+/*CURSOR STYLE*/
+span{
+    margin-left: 1%;
+    width: 30vw;
+    height: 30vh;
+}
+.default{
+    color: orange;
+    cursor: default;
+}
+.help{
+    color: orange;
+    cursor: help;
+}
+.pointer{
+    color: orange;
+    cursor: pointer;
+}
+.move{
+    color: orange;
+    cursor: move;
+}
+.wait{
+    color: orange;
+    cursor: wait;
+}
+.crosshair{
+    color: orange;
+    cursor: crosshair;
+}
+.progress{
+    color: orange;
+    cursor: progress;
+}
+.not-allowed{
+    color: orange;
+    cursor: not-allowed;
+}
+.text{
+    color: orange;
+    cursor: text;
+}
+.vertical-text{
+    color: orange;
+    cursor: vertical-text;
+}
+.cell{
+    color: orange;
+    cursor: cell;
+}
+.copy{
+    color: orange;
+    cursor: copy;
+}
+/* CSS DEBUGGING*/
+/*
+*{
+    border: 2px solid red;
+}
+*/
+/* TEXT GRADIENT */
+.text-gradient{
+    display: inline-block;
+    color: transparent;
+    background-image: linear-gradient(
+        90deg,
+        #fc87da 0%,
+        #cb94ef 26%,
+        #41e0e7 70%,
+        #28f6c2 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+}
