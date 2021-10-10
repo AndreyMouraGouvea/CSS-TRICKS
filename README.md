@@ -6,6 +6,7 @@
 - [x] CENTER CONTENT
 - [x] CURSOR STYLE
 - [x] TEXT GRADIENT
+- [x] WEBSITES TO LEARN
 
 ### BORDER STYLE
 
@@ -55,8 +56,8 @@
 
 ### WEBSITES TO LEARN
 
-[Flex Box Froggy](https://flexboxfroggy.com/);
+[Flex Box Froggy](https://flexboxfroggy.com/)
 
-[Evelator Saga](https://play.elevatorsaga.com/);
+[Evelator Saga](https://play.elevatorsaga.com/)
 
-[Fluke Out](https://flukeout.github.io/);
+[Fluke Out](https://flukeout.github.io/)
