@@ -6,6 +6,7 @@
 - [x] CENTER CONTENT
 - [x] CURSOR STYLE
 - [x] TEXT GRADIENT
+- [x] TEXT SELECTION COLOR
 - [x] WEBSITES TO LEARN
 
 ### BORDER STYLE
@@ -52,6 +53,15 @@
     -webkit-background-clip: text;
     background-clip: text;
 }
+```
+### TEXT SELECTION COLOR
+
+```
+::selection{
+    color: #000;
+    background: #f4af38;
+}
+
 ```
 
 ### WEBSITES TO LEARN
