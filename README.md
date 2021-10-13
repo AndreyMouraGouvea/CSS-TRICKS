@@ -25,6 +25,22 @@
 }
 ```
 
+### CENTER CONTENT => ALL ITEMS ON THE CENTER OF THE PAGE
+
+```
+      body{
+          height: 100vh;
+          margin: 0;
+          display: flex;
+          align-items: center;
+      }
+      .container{
+        width: 100vw;
+        display: flex;  
+        justify-content: space-between;
+    }
+```
+
 ### CURSOR STYLE
 
 ![](img/cursor.jpg)
